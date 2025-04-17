@@ -1,6 +1,6 @@
 # Portfolio of Sahan Devaka
 
-Welcome to my personal portfolio! This project showcases my skills, projects, and achievements as a Computer Science undergraduate passionate about building scalable web solutions.
+Welcome to my personal portfolio! This project showcases my skills, projects, and achievements as a computer science undergraduate who is passionate about building scalable web solutions.
 
 ## Table of Contents
 - [About](#about)
@@ -41,21 +41,21 @@ This portfolio is deployed using [Vercel](https://vercel.com/). To run it locall
 3. Ensure all static files are in the `public` folder.
 
 4. Deploy to Vercel:
-   - Install the Vercel CLI:
-     ```bash
-     npm install -g vercel
-     ```
-   - Deploy the project:
-     ```bash
-     vercel
-     ```
+- Install the Vercel CLI:
+  ```bash
+  npm install -g vercel
+  ```
+- Deploy the project:
+  ```bash
+  vercel
+  ```
 
 ## Contact
 Feel free to reach out to me for collaboration or inquiries:
 
 - **Email**: [sahandevaka9@gmail.com](mailto:sahandevaka9@gmail.com)
 - **LinkedIn**: [linkedin.com/in/sahan-devaka](https://www.linkedin.com/in/sahan-devaka/)
-- **GitHub**: [github.com/your-username](https://github.com/sahandev404)
+- **GitHub**: [github.com/sahandev404](https://github.com/sahandev404)
 
 ---
 
